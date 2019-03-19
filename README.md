@@ -1,2 +1,2 @@
 # GLUC-Model
-Global Land Use Cover predictive model
+Global Land Use Cover projection model
