@@ -1,2 +1,2 @@
-# GLUC_Model
+# GLUC-Model
 Global Land Use Cover projection model
